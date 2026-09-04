@@ -36,8 +36,8 @@ I build somethings to learn, focused on AI and personal stuff (things that you c
 ## 📊 GitHub Analytics
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ShimazuT&show_icons=true&theme=radical&cache_seconds=86400" alt="GitHub Stats" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ShimazuT&layout=compact&theme=radical&cache_seconds=86400" alt="Top Languages" width="48%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ShimazuT&theme=dark" alt="GitHub Streak" width="48%" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ShimazuT&theme=dark" alt="Profile Summary" width="48%" />
 </p>
 
 ---

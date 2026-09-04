@@ -38,7 +38,6 @@ I build somedthings to learn focused on AI and personal staf(somethings that you
   <img src="https://github-readme-stats.vercel.app/api?username=ShimazuT&show_icons=true&theme=radical&cache_seconds=86400" alt="GitHub Stats" width="48%" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ShimazuT&layout=compact&theme=radical&cache_seconds=86400" alt="Top Languages" width="48%" />
 </p>
-
 ---
 
 <!-- SOCIALS & CONTACT -->

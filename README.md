@@ -1,14 +1,14 @@
-# Hi there, I'm Tovchayev Ayhan 👋
+# Hi, I'm Ayhan Tovchayev 👋
 
-### Just Student
+### Computers and Information Technology student | AI and machine learning
 
-I build somethings to learn, focused on AI and personal stuff (things that you can use in your life and forget that you are using it).
+I'm a third-year student at the University of Petroșani, Romania. I build small projects to learn, focused on AI and on useful personal tools: things that quietly make everyday life easier.
 
-- 🔭 **Currently working on:** I am on break, I will be back someday.
-- 🌱 **Currently learning:** Python / PyTorch
-- 👯 **Looking to collaborate on:** Open-source tools around AI and some ideas that can give me inspiration.
-- 💬 **Ask me about:** EVERYTHING
-- ⚡ **Fun fact:** Just a normal student.
+- 🔭 **Currently working on:** Pandaroma (a website and AI tools, early stage) and an AI-controlled snake robot (research and planning stage)
+- 🌱 **Currently learning:** Python and PyTorch
+- 👯 **Looking to collaborate on:** open-source AI tools
+- 💬 **Ask me about:** Python, web development, and studying in a foreign country
+- 🌍 **Languages:** Turkmen, Turkish, English, Russian, Romanian
 
 ---
 
@@ -23,22 +23,14 @@ I build somethings to learn, focused on AI and personal stuff (things that you c
 
 ---
 
-<!-- FEATURED / PINNED PROJECTS -->
-## 🚀 Key Projects
+<!-- PROJECTS -->
+## 🚀 Projects
 
 | Project | Description | Tech Stack |
 | :--- | :--- | :--- |
-| **[Pandaroma](https://github.com/ShimazuT)** | AI development tools and personal productivity apps. | Python, JavaScript |
-
----
-
-<!-- DYNAMIC GITHUB STATS -->
-## 📊 GitHub Analytics
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ShimazuT&theme=dark" alt="GitHub Streak" width="48%" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ShimazuT&theme=dark" alt="Profile Summary" width="48%" />
-</p>
+| **[Pandaroma](https://github.com/ShimazuT/REPO-NAME)** | Website and AI development tools (early stage). | Python, JavaScript |
+| **[File organizer](https://github.com/ShimazuT/REPO-NAME)** | Python tool that organizes files by type. | Python |
+| **[Backup logger](https://github.com/ShimazuT/REPO-NAME)** | Python tool that logs backups. | Python |
 
 ---
 
